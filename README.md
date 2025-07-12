@@ -18,6 +18,7 @@ I'm an aspiring **Full-Stack Developer** with a solid foundation in both front-e
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### 🛢️ Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -43,8 +44,9 @@ To become a well-rounded **Full-Stack Developer** capable of building scalable, 
 ---
 
 ### 📊 GitHub Stats
-![Rolly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsxareh&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsxareh&layout=compact&theme=tokyonight)
+
+![Status](https://github-readme-stats.vercel.app/api?username=itsxareh&show_icons=true&theme=tokyonight)
  
 ---
 
