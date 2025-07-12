@@ -1,4 +1,4 @@
-## 👋 Hello! I'm Rolly Raytos
+##  Hallo! I'm Rolly Raytos
 
 I'm an aspiring **Full-Stack Developer** with a solid foundation in both front-end and back-end technologies. I’m passionate about building functional, user-centered applications and constantly exploring new technologies to improve my craft.
 
