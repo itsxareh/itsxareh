@@ -45,8 +45,6 @@ To become a well-rounded **Full-Stack Developer** capable of building scalable, 
 
 ### 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsxareh&layout=compact&theme=tokyonight)
-
-![Status](https://github-readme-stats.vercel.app/api?username=itsxareh&show_icons=true&theme=tokyonight)
  
 ---
 
