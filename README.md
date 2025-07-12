@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I'm Rolly!
+- 🎓 Graduate of EARIST – Manila
+- 🔍 I’m currently working on a Research Repository System with AI Plagiarism Detection
+- 🌱 Learning Kotlin, Android Dev, and Firebase
+- ⚡ Fun fact: I love writing witty quotes and playing around with UI designs!
 
-<!--
-**itsxareh/itsxareh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 Contact Me
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourusername)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Technologies
+![Java](https://img.shields.io/badge/-Java-black?logo=java)
+![PHP](https://img.shields.io/badge/-PHP-blue?logo=php)
+![Python](https://img.shields.io/badge/-Python-yellow?logo=python)
+![MySQL](https://img.shields.io/badge/-MySQL-lightblue?logo=mysql)
+![Android](https://img.shields.io/badge/-Android-green?logo=android)
