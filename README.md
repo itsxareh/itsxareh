@@ -39,7 +39,7 @@ To become a well-rounded **Full-Stack Developer** capable of building scalable, 
 - REST API design and integration  
 - Modern JavaScript (ES6+)  
 - React & Node.js for advanced full-stack development  
-- Deployment using Firebase, Vercel, or Heroku
+- Deployment using Firebase, Vercel
 
 ---
 
