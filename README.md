@@ -34,7 +34,7 @@
   openTo: ["Collaboration", "Open Source", "Freelance"],
   motto: "If it's repetitive, automate it."
 };
-
+</code></pre>
 
 I'm a Data Analyst who builds automation pipelines to eliminate repetitive work. What used to be a fully manual process — pulling data from databases, formatting it, and emailing reports — now runs end-to-end in 1–5 minutes instead of 30 minutes to 2 hours per report.
 
