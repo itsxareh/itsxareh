@@ -10,15 +10,14 @@
 </a>
 <br /><br />
  
-<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+<a href="https://linkedin.com/in/rcraytos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:raytos.r.bsinfotech@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://rlyryts.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=itsxareh&label=Visitors&color=0e75b6&style=flat-square" />
  
-</div>
-<br />
-## About Me
+<h2>About Me</h2>
  
+</div>
 ```ts
 const rolly = {
   role: "Data Analyst & Automation Engineer",
@@ -35,45 +34,47 @@ I'm a Data Analyst who builds automation pipelines to eliminate repetitive work.
  
 I also have a solid foundation in both front-end and back-end technologies, and I'm passionate about building functional, user-centered applications while constantly exploring new tools to improve my craft.
  
-## Impact Highlight
- 
 <div align="center">
-| Manual Report (Before) | Automated Report (After) | Time Saved |
-|---|---|---|
-| ⏱️ 30 min – 2 hours per report | ⚡ 1 – 5 minutes per report | 🚀 Up to 96% faster |
+<h2>Impact Highlight</h2>
  
-</div>
-## Tech Stack
+<table>
+<tr>
+<th>Manual Report (Before)</th>
+<th>Automated Report (After)</th>
+<th>Time Saved</th>
+</tr>
+<tr>
+<td align="center">⏱️ 30 min – 2 hours per report</td>
+<td align="center">⚡ 1 – 5 minutes per report</td>
+<td align="center">🚀 Up to 96% faster</td>
+</tr>
+</table>
+<h2>Tech Stack</h2>
  
-<table align="center">
+<table>
 <tr>
 <td align="center" width="50%">
-**Data & Analysis**
- 
+<b>Data & Analysis</b><br /><br />
 <img src="https://skillicons.dev/icons?i=py,mysql,mongodb,sqlite&theme=dark" />
 </td>
 <td align="center" width="50%">
-**Automation**
- 
+<b>Automation</b><br /><br />
 <img src="https://skillicons.dev/icons?i=py,selenium&theme=dark" />
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
-**Frontend**
- 
+<b>Frontend</b><br /><br />
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark" />
 </td>
 <td align="center" width="50%">
-**Backend & Tools**
- 
+<b>Backend & Tools</b><br /><br />
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,java,git,github,vscode,linux&theme=dark" />
 </td>
 </tr>
 </table>
-## Automation & Scripting
+<h2>Automation & Scripting</h2>
  
-<div align="center">
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -84,7 +85,7 @@ I also have a solid foundation in both front-end and back-end technologies, and 
 <table>
 <tr>
 <td width="50%" valign="top">
-**Browser & Web Automation**
+<b>Browser & Web Automation</b>
  
 Playwright — end-to-end testing, web scraping, and headless browser workflows
  
@@ -92,7 +93,7 @@ Selenium — legacy automation and cross-browser scripting
  
 Form filling, file downloads, PDF generation, and screenshot capture
  
-**Data & Database Automation**
+<b>Data & Database Automation</b>
  
 Scheduled SQL queries against MySQL / SQLite / MongoDB
  
@@ -102,7 +103,7 @@ Automated backups, syncs, and data validation checks
  
 </td>
 <td width="50%" valign="top">
-**Report & Email Pipelines**
+<b>Report & Email Pipelines</b>
  
 Fetch data from databases or APIs on a schedule
  
@@ -112,26 +113,31 @@ Dispatch via SMTP with attachments and inline tables
  
 Cron / Task Scheduler orchestration for hands-off delivery
  
-**End-to-End Automation Flow**
+<b>End-to-End Automation Flow</b>
  
 Trigger -> Fetch DB -> Process -> Generate Report -> Email -> Log
  
 </td>
 </tr>
 </table>
-## Automation Projects
- 
 <div align="center">
-<a href="https://github.com/itsxareh/automation-report-bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsxareh&repo=automation-report-bot&theme=github_dark&hide_border=true&show_owner=true" />
-</a>
-<a href="https://github.com/itsxareh/playwright-scraper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsxareh&repo=playwright-scraper&theme=github_dark&hide_border=true&show_owner=true" />
-</a>
-</div>
-## GitHub Analytics
+<h2>Featured Projects</h2>
  
-<div align="center">
+<a href="https://github.com/itsxareh/research-archiving-with-ai-plagiarism-detection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsxareh&repo=research-archiving-with-ai-plagiarism-detection&theme=github_dark&hide_border=true&show_owner=true" />
+</a>
+<a href="https://github.com/itsxareh/inventory-system-with-predictive-analysis-using-linear-regression">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsxareh&repo=inventory-system-with-predictive-analysis-using-linear-regression&theme=github_dark&hide_border=true&show_owner=true" />
+</a>
+<br />
+<a href="https://github.com/itsxareh/ayuda-app-with-sms-notification">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsxareh&repo=ayuda-app-with-sms-notification&theme=github_dark&hide_border=true&show_owner=true" />
+</a>
+<a href="https://github.com/itsxareh/cashcloud">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsxareh&repo=cashcloud&theme=github_dark&hide_border=true&show_owner=true" />
+</a>
+<h2>GitHub Analytics</h2>
+ 
 <a href="https://github.com/itsxareh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsxareh&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsxareh&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
@@ -142,34 +148,17 @@ Trigger -> Fetch DB -> Process -> Generate Report -> Email -> Log
 <a href="https://github.com/itsxareh">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsxareh&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" />
 </a>
-</div>
-## Featured Projects
+<h2>Currently</h2>
  
-<div align="center">
-<a href="https://github.com/itsxareh/project-one">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsxareh&repo=project-one&theme=github_dark&hide_border=true&show_owner=true" />
-</a>
-<a href="https://github.com/itsxareh/project-two">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsxareh&repo=project-two&theme=github_dark&hide_border=true&show_owner=true" />
-</a>
-<br />
-<a href="https://github.com/itsxareh/project-three">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsxareh&repo=project-three&theme=github_dark&hide_border=true&show_owner=true" />
-</a>
-<a href="https://github.com/itsxareh/project-four">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsxareh&repo=project-four&theme=github_dark&hide_border=true&show_owner=true" />
-</a>
 </div>
-## Currently
- 
 <table>
 <tr>
 <td width="50%" valign="top">
-**Working On**
+<b>Working On</b>
  
 Scaling automation pipelines that turn raw database data into scheduled, hands-off reports.
  
-**Learning**
+<b>Learning</b>
  
 Advanced data visualization
  
@@ -179,7 +168,7 @@ Playwright + CI/CD integration
  
 </td>
 <td width="50%" valign="top">
-**Open To**
+<b>Open To</b>
  
 Open-source contributions
  
@@ -187,31 +176,28 @@ Collaborative data & automation projects
  
 Freelance opportunities
  
-**Ask Me About**
+<b>Ask Me About</b>
  
 SQL · Python · Pandas · Playwright · Automated reporting · Data pipelines
  
 </td>
 </tr>
 </table>
-## Let's Connect
- 
 <div align="center">
+<h2>Let's Connect</h2>
+ 
 <p>I'm always open to discussing new projects, data problems, or automation opportunities.</p>
-<a href="https://linkedin.com/in/your-profile">
+<a href="https://linkedin.com/in/rcraytos">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:raytos.r.bsinfotech@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://twitter.com/your-handle">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="https://your-portfolio.com">
+<a href="https://rlyryts.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-</div>
-<div align="center">
+<br /><br />
+ 
 "If it's repetitive, automate it."
  
 <a href="https://github.com/itsxareh">
