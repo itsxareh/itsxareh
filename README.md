@@ -21,18 +21,9 @@
 
 <h2>About Me</h2>
 
-</div>
+<img src="assets/about-me-code.png" alt="About me, as code" width="100%" />
 
-<pre><code>const rolly = {
-  role: "Data Analyst &amp; Automation Engineer",
-  focus: ["Data Analysis", "Reporting Automation", "Web Development"],
-  automation: ["Playwright", "SQL pipelines", "Automated email reports"],
-  impact: "Cut manual report time from 30min–2hr down to 1–5 min",
-  learning: ["React", "Node.js", "System Design"],
-  openTo: ["Collaboration", "Open Source", "Freelance"],
-  motto: "If it's repetitive, automate it."
-};
-</code></pre>
+</div>
 
 I'm a Data Analyst who builds automation pipelines to eliminate repetitive work. What used to be a fully manual process — pulling data from databases, formatting it, and emailing reports — now runs end-to-end in 1–5 minutes instead of 30 minutes to 2 hours per report.
 
