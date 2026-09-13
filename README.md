@@ -21,8 +21,6 @@
 
 <h2>About Me</h2>
 
-<img src="assets/about-me-code.png" alt="About me, as code" width="100%" />
-
 </div>
 
 <pre><code>const rolly = {
