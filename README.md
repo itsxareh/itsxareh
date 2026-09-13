@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/itsxareh">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Rolly%20Raytos&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Automation%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Rolly%20C%20Raytos&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Automation%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
 </a>
 
 <br />
@@ -24,6 +24,17 @@
 <img src="assets/about-me-code.png" alt="About me, as code" width="100%" />
 
 </div>
+
+<pre><code>const rolly = {
+  role: "Data Analyst &amp; Automation Engineer",
+  focus: ["Data Analysis", "Reporting Automation", "Web Development"],
+  automation: ["Playwright", "SQL pipelines", "Automated email reports"],
+  impact: "Cut manual report time from 30min–2hr down to 1–5 min",
+  learning: ["React", "Node.js", "System Design"],
+  openTo: ["Collaboration", "Open Source", "Freelance"],
+  motto: "If it's repetitive, automate it."
+};
+
 
 I'm a Data Analyst who builds automation pipelines to eliminate repetitive work. What used to be a fully manual process — pulling data from databases, formatting it, and emailing reports — now runs end-to-end in 1–5 minutes instead of 30 minutes to 2 hours per report.
 
@@ -77,8 +88,8 @@ I also have a solid foundation in both front-end and back-end technologies, and 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/SMTP%2520%252F%2520Email-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" />
-<img src="https://img.shields.io/badge/Cron%2520Jobs-4EAA25?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/SMTP Email-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" />
+<img src="https://img.shields.io/badge/Cron Jobs-4EAA25?style=for-the-badge&logo=linux&logoColor=white" />
 
 </div>
 
@@ -129,19 +140,23 @@ Trigger -> Fetch DB -> Process -> Generate Report -> Email -> Log
 
 <table>
 <tr>
-<td>📁 <a href="https://github.com/itsxareh/research-archiving-with-ai-plagiarism-detection">research-archiving-with-ai-plagiarism-detection</a></td>
+<td>📁 <a href="https://github.com/itsxareh/collection_analytics">Collection Analytics</a></td>
+<td><img src="https://img.shields.io/badge/Typescript-0969da?style=flat-square&logo=typescript&logoColor=black" /></td>
+</tr>
+<tr>
+<td>📁 <a href="https://github.com/itsxareh/research-archiving-with-ai-plagiarism-detection">Research Repository with Plagiarism Detector</a></td>
 <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></td>
 </tr>
 <tr>
-<td>📁 <a href="https://github.com/itsxareh/inventory-system-with-predictive-analysis-using-linear-regression">inventory-system-with-predictive-analysis-using-linear-regression</a></td>
+<td>📁 <a href="https://github.com/itsxareh/inventory-system-with-predictive-analysis-using-linear-regression">Inventory System with Predictive Analysis using Linear Regression</a></td>
 <td><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /></td>
 </tr>
 <tr>
-<td>📁 <a href="https://github.com/itsxareh/ayuda-app-with-sms-notification">ayuda-app-with-sms-notification</a></td>
+<td>📁 <a href="https://github.com/itsxareh/ayuda-app-with-sms-notification">Ayuda Application with SMS Notification</a></td>
 <td><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /></td>
 </tr>
 <tr>
-<td>📁 <a href="https://github.com/itsxareh/cashcloud">cashcloud</a></td>
+<td>📁 <a href="https://github.com/itsxareh/cashcloud">CashCloud</a></td>
 <td><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /></td>
 </tr>
 </table>
@@ -182,6 +197,7 @@ in a browser tab), or self-host your own instance for full reliability.
 
 Scaling automation pipelines that turn raw database data into scheduled, hands-off reports.
 
+
 <b>Learning</b>
 
 Advanced data visualization
@@ -200,6 +216,7 @@ Open-source contributions
 Collaborative data & automation projects
 
 Freelance opportunities
+
 
 <b>Ask Me About</b>
 
